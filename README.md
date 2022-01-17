@@ -1,5 +1,5 @@
 ### Hi there 👋
-💻 [UnityDeveloper](https://github.com/SokolyukMisha)
+💻 UnityDeveloper
 🌱 Learning Unity and C# with Udemy
 🎓 Student at Kyiv Polytechnic Institute, FICT
 💬 Telegram: [@mixac9](https://telegram.me/mixac9)
